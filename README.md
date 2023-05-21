@@ -35,11 +35,11 @@
 
   ## My Works :
 
- <a href="https://github.com/deepanshu-byte/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepanshu-byte&repo=github-readme-stats&theme=buefy" />
-</a>
+ <p href="https://github.com/deepanshu-byte/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshu-byte&theme=tokyonight&show_icons=true&include_all_commits=true" />
+</p>
   <p align = "center">
-  <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-byte&theme=react&layout=compact" />
+  <img height= "160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-byte&theme=tokyonight&layout=compact" />
 </p>
 
 ## ❤ Views and Followers
