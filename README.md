@@ -6,7 +6,7 @@
 <ul>
   <li>👋 Hi, I’m Deepanshu Pandey</li>
   <li>❤️ I’m interested in mostly everything when it comes to computer.</li>
-  <li>🌱 I’m currently learning few exsiting and exciting things.</li>
+  <li>🌱 I’m currently learning few existing and exciting things.</li>
   <li>💼 I'm a 4th year student at VIT</li>
   <li>📫 How to Reach me, Deepanshupandey.pc@gmail.com </li>  
 </ul>
